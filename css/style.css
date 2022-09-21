@@ -336,60 +336,60 @@ p{
 
 
     .position-1-1{
-        transform: translate(19px,18px);
+        transform: translate(22px,18px);
     }
 
     .position-1-2{
-        transform: translate(98px,18px);
+        transform: translate(102px,18px);
     }
     .position-1-3{
         transform: translate(177px,18px);
     }
     .position-1-4 {
-        transform: translate(256px,18px);
+        transform: translate(254px,18px);
     }
 
 
     .position-2-1{
-        transform: translate(19px,103px);
+        transform: translate(22px,103px);
     }
 
     .position-2-2{
-        transform: translate(97px,103px);
+        transform: translate(101px,103px);
     }
     .position-2-3{
         transform: translate(177px,103px);
     }
     .position-2-4{
-        transform: translate(256px,103px);
+        transform: translate(254px,103px);
     }
 
 
 
     .position-3-1{
-        transform: translate(19px,190px);
+        transform: translate(22px,190px);
     }
     .position-3-2{
-        transform: translate(97px,190px);
+        transform: translate(100px,190px);
     }
     .position-3-3{
         transform: translate(177px,190px);
     }
     .position-3-4{
-        transform: translate(256px,190px);
+        transform: translate(254px,190px);
     }
 
 
     .position-4-1{
-        transform: translate(19px,276px);
+        transform: translate(22px,276px);
     }
     .position-4-2{
-        transform: translate(97px,276px);
+        transform: translate(101px,276px);
     }
     .position-4-3{
         transform: translate(177px,276px);
     }
     .position-4-4{
-        transform: translate(256px,276px);
+        transform: translate(254px,276px);
     }
 }
