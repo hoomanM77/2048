@@ -84,7 +84,7 @@ h1{
     font-size: 4rem;
 }
 .grid-row{
-    padding: 0.7rem;
+    padding: 0.6rem;
     display: flex;
     gap:0.3rem
 }
@@ -302,6 +302,9 @@ p{
     font-size: 1.2rem;
 }
 @media (max-width: 580px) {
+    .grid-column{
+        margin: auto 0.2rem!important;
+    }
     p{
         font-size: 0.8rem!important;
     }
@@ -312,8 +315,8 @@ p{
         font-size: 0.8rem!important;
     }
     .grid-container,.item-container,.win-status{
-        width: 325px;
-        height: 371px;
+        width: 345px;
+        height: 370px;
     }
     .grid-row{
         justify-content: space-between;
@@ -337,56 +340,56 @@ p{
     }
 
     .position-1-2{
-        transform: translate(92px,18px);
+        transform: translate(98px,18px);
     }
     .position-1-3{
-        transform: translate(164px,18px);
+        transform: translate(177px,18px);
     }
     .position-1-4 {
-        transform: translate(237px,18px);
+        transform: translate(256px,18px);
     }
 
 
     .position-2-1{
-        transform: translate(19px,108px);
+        transform: translate(19px,103px);
     }
 
     .position-2-2{
-        transform: translate(92px,108px);
+        transform: translate(97px,103px);
     }
     .position-2-3{
-        transform: translate(164px,108px);
+        transform: translate(177px,103px);
     }
     .position-2-4{
-        transform: translate(237px,108px);
+        transform: translate(256px,103px);
     }
 
 
 
     .position-3-1{
-        transform: translate(19px,198px);
+        transform: translate(19px,190px);
     }
     .position-3-2{
-        transform: translate(92px,198px);
+        transform: translate(97px,190px);
     }
     .position-3-3{
-        transform: translate(164px,198px);
+        transform: translate(177px,190px);
     }
     .position-3-4{
-        transform: translate(237px,198px);
+        transform: translate(256px,190px);
     }
 
 
     .position-4-1{
-        transform: translate(19px,287px);
+        transform: translate(19px,276px);
     }
     .position-4-2{
-        transform: translate(92px,287px);
+        transform: translate(97px,276px);
     }
     .position-4-3{
-        transform: translate(164px,287px);
+        transform: translate(177px,276px);
     }
     .position-4-4{
-        transform: translate(237px,287px);
+        transform: translate(256px,276px);
     }
 }
